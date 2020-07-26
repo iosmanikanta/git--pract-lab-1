@@ -1,3 +1,7 @@
 first line added in local repo
 second line added in central github.com
+<<<<<<< HEAD
+third lline added in local master
+=======
 fourth line added in branch
+>>>>>>> a3cbb3aa5022d7837a676addb7dc7116aff4fe43
